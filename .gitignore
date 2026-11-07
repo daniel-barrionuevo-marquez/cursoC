@@ -1,0 +1,11 @@
+# Ignorar todo...
+*
+# ...salvo directorios y ficheros fuente
+!*/
+!*.c
+!*.h
+!Makefile
+!*.md
+!*.sh
+!.gitignore
+!.vscode/*.json
