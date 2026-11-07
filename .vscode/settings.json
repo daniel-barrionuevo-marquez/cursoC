@@ -1,0 +1,14 @@
+{
+    "chat.disableAIFeatures": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "[makefile]": {
+        "editor.insertSpaces": false
+    }
+}
